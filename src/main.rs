@@ -8,6 +8,7 @@
 
 pub mod docs;
 pub mod auto;
+pub mod content;
 
 #[macro_use]
 extern crate rocket;
